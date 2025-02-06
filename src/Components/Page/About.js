@@ -1,10 +1,7 @@
 import React, { Component } from 'react';
-import CountUp from 'react-countup';
 import Banner from '../Banner';
 import SectionTitleOne from '../SectionTitleOne';
 import Appointment from '../Appointment';
-import BlogOne from '../Blog/BlogOne';
-import BlogData from '../Data/BlogData';
 
 class About extends Component {
   render() {

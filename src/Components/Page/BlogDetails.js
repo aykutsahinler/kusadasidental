@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import Banner from '../Banner';
-import BlogData from '../Data/BlogData';
-import RecentPost from '../Blog/RecentPost';
 
 class BlogDetails extends Component {
   render() {

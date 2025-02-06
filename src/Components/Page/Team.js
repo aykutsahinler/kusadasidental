@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import Banner from '../Banner';
-import Dentist from '../Team/Dentist';
-import TeamData from '../Data/TeamData';
 
 class Team extends Component {
   constructor(props) {
