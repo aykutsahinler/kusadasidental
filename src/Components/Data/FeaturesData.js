@@ -1,26 +1,24 @@
 const FeaturesData = {
-    items: [
-        {
-            id: 1,
-            imgUrl: "appointment.svg",
-            title: "Easy Appointment",
-            text: "Lorem Ipsum is simply is very dummy text of the printings and type setting",
-        },
-        {
-            id: 2,
-            imgUrl: "icon3.svg",
-            title: "Emergency Service",
-            text: "Get our text demo is simply dummy text of the printings and type for content",
-        },
-        {
-            id: 3,
-            imgUrl: "icon.svg",
-            title: "24/7 Service",
-            text: "Lorem Ipsum is demo simply dummy text of the printings and type and setting",
-        }
-    ],
+  items: [
+    {
+      id: 1,
+      imgUrl: 'appointment.svg',
+      title: 'Precise and Reliable Treatments',
+      text: 'Your oral health is our priority. From root canal treatments to fillings, we perform all dental procedures with precision and care.',
+    },
+    {
+      id: 2,
+      imgUrl: 'icon3.svg',
+      title: 'Professional Care and Preventive Services',
+      text: "Our regular cleaning and maintenance services help you preserve your dental health. We're here to keep your smile healthy for years to come.",
+    },
+    {
+      id: 3,
+      imgUrl: 'icon.svg',
+      title: 'Comprehensive Solutions with Expert Team',
+      text: 'From emergency extractions to implant procedures, we provide a wide range of services to address your dental needs effectively.',
+    },
+  ],
+};
 
-}
-
-
-export default FeaturesData
+export default FeaturesData;

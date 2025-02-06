@@ -13,7 +13,6 @@ export class ServiceItem extends Component {
                                 </div>
                                 <h3>{serviceItem.title}</h3>
                                 <p>{serviceItem.text}</p>
-                                <a href={serviceItem.link} className="btn-link">read more</a>
                             </div>
                         </div>
                     )

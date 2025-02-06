@@ -832,7 +832,7 @@ section {
 .text-white h4,
 .text-white h5,
 .text-white h6,
-.text-white span{
+.text-white span {
   color: #fff !important
 }
 
@@ -1430,4 +1430,12 @@ a {
 
 .navbar-brand {
   padding: 0px !important;
+
+  img {
+    height: 4.3vh;
+  }
+
+  span {
+    font-size: 1rem;
+  }
 }
