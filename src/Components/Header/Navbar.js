@@ -54,7 +54,7 @@ class Navbar extends Component {
                     data-toggle='collapse'
                     data-target='#mobilenav'
                     style={{
-                      background: '#fafafa',
+                      background: 'lightgray',
                     }}
                   >
                     <span className='fal fa-bars' />
