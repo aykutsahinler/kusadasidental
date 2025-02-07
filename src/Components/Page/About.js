@@ -449,12 +449,6 @@ class About extends Component {
             <div className='col-12 col-md-12 col-lg-8 offset-lg-2 text-center'>
               <div className='section-text-wrap pb-25'>
                 <h1>Safety First</h1>
-                <p>
-                  Since 1998, Donto Dentistry has been proud to combine modern
-                  techniques and high-tech equipment. Dr. John Dae, Micha and
-                  his team deliver a personalized and comfortable dental care
-                  experience unlike any other Mason dentist.
-                </p>
               </div>
             </div>
           </div>
